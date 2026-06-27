@@ -1,0 +1,6 @@
+/Users/gentlebookpro/Projekte/Omnixys/packages/java/storage/src/main/java/com/omnixys/storage/FileStorageService.java
+/Users/gentlebookpro/Projekte/Omnixys/packages/java/storage/src/main/java/com/omnixys/storage/S3FileStorageService.java
+/Users/gentlebookpro/Projekte/Omnixys/packages/java/storage/src/main/java/com/omnixys/storage/StorageException.java
+/Users/gentlebookpro/Projekte/Omnixys/packages/java/storage/src/main/java/com/omnixys/storage/autoconfigure/StorageAutoConfiguration.java
+/Users/gentlebookpro/Projekte/Omnixys/packages/java/storage/src/main/java/com/omnixys/storage/health/S3HealthIndicator.java
+/Users/gentlebookpro/Projekte/Omnixys/packages/java/storage/src/main/java/com/omnixys/storage/model/StorageProperties.java

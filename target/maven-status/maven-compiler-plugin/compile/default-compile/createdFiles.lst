@@ -1,0 +1,7 @@
+com/omnixys/storage/autoconfigure/StorageAutoConfiguration.class
+com/omnixys/storage/S3FileStorageService.class
+com/omnixys/storage/FileStorageService.class
+com/omnixys/storage/model/StorageProperties.class
+com/omnixys/storage/health/S3HealthIndicator.class
+com/omnixys/storage/FileStorageService$StorageHealth.class
+com/omnixys/storage/StorageException.class
