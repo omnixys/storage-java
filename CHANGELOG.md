@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.2](https://github.com/omnixys/storage-java/compare/v1.0.1...v1.0.2) (2026-07-23)
+
+### Deps
+
+* **Deps:** update commons deps version ([](https://github.com/omnixys/storage-java/commit/f126535f150ba16114d38efab5b3b9c2c5ae2451))
+
 ## [1.0.1](https://github.com/omnixys/storage-java/compare/v1.0.0...v1.0.1) (2026-07-16)
 
 ### Deps
