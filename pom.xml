@@ -24,11 +24,13 @@
         <java.version>26</java.version>
         <maven.compiler.release>26</maven.compiler.release>
         <aws.sdk.version>2.46.17</aws.sdk.version>
+
+        <omnixys.commons.version>1.0.4</omnixys.commons.version>
     </properties>
 
     <distributionManagement>
         <repository>
-            <id>github-commons</id>
+            <id>github-storage</id>
             <url>https://maven.pkg.github.com/omnixys/storage-java</url>
         </repository>
     </distributionManagement>
@@ -61,7 +63,7 @@
         <dependency>
             <groupId>com.omnixys</groupId>
             <artifactId>commons</artifactId>
-            <version>1.0.0</version>
+            <version>${omnixys.commons.version}</version>
         </dependency>
 
         <dependency>
