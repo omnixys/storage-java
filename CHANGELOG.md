@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.3](https://github.com/omnixys/storage-java/compare/v1.0.2...v1.0.3) (2026-08-22)
+
+### Agent
+
+* **Agent:** add repository development instructions ([](https://github.com/omnixys/storage-java/commit/062f9bfd63a7742c8c17ea3cd946835b12dbf5f0))
+
+### Dir
+
+* **Dir:** remove target dir ([](https://github.com/omnixys/storage-java/commit/25bbbd4e6f95d5a6f5595537de5cb10f05c68f8c))
+
 ## [1.0.2](https://github.com/omnixys/storage-java/compare/v1.0.1...v1.0.2) (2026-07-23)
 
 ### Deps
