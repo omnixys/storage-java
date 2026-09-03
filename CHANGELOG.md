@@ -3,6 +3,21 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.4](https://github.com/omnixys/storage-java/compare/v1.0.3...v1.0.4) (2026-09-03)
+
+### Ci
+
+* **Ci:** add update release rule for patch releases ([](https://github.com/omnixys/storage-java/commit/bc2a1d3bf150863b289c01febc98ddfb20ed8582))
+* **Ci:** align CI structure with full workflow set, 3-job release, and pinned conventionalcommits ([](https://github.com/omnixys/storage-java/commit/8fba83e9ed210a077cb8cc3fc47e38122d9ec200))
+
+### Other
+
+* **Other:** Merge pull request #1 from omnixys/migration/uuid-v7 ([](https://github.com/omnixys/storage-java/commit/248f6000fbc796c407bab8a21e70807d6b85d83a)), closes [#1](https://github.com/omnixys/storage-java/issues/1)
+
+### Runtime
+
+* **Runtime:** align spring boot and build toolchain to local standard ([](https://github.com/omnixys/storage-java/commit/d90ca8f8eafa0b649e7cafe221bf102d966176d7))
+
 ## [1.0.3](https://github.com/omnixys/storage-java/compare/v1.0.2...v1.0.3) (2026-08-22)
 
 ### Agent
